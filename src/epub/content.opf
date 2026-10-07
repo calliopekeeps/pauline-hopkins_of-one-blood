@@ -53,7 +53,6 @@
 		<dc:subject id="subject-5">Americans--Ethiopia--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
-		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Spirituality</meta>
 		<meta property="schema:abstract">A young scholar’s life spirals down a dark path after the near-death of a singer.</meta>
