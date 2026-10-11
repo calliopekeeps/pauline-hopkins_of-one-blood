@@ -62,3 +62,7 @@ footer{
 p[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
+
+#chapter-15 blockquote{
+	font-variant: small-caps;
+}
