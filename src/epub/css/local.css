@@ -63,6 +63,7 @@ p[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 
-#chapter-15 blockquote{
+/* Sign in Chapter 15 */
+#chapter-15 blockquote:nth-of-type(2){
 	font-variant: small-caps;
 }
